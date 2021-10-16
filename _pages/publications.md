@@ -21,4 +21,4 @@ Journal Articles
 
 In Preparation
 ====== 
-* Bokgyeong Kang, John Hughes, and Murali Haran. (2021+). "[Diagnostics for Monte Carlo algorithms for models with intractable normalizing functions.](https://arxiv.org/pdf/2109.05121.pdf)" 
+* **Bokgyeong Kang**, John Hughes, and Murali Haran. (2021+). "[Diagnostics for Monte Carlo algorithms for models with intractable normalizing functions.](https://arxiv.org/pdf/2109.05121.pdf)" 
