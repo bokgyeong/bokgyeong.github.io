@@ -16,5 +16,5 @@ author_profile: true
 {% endfor %}
 
 Journal Articles
-======
-* Kang, B. and Park. T. (2019)
+======, 
+* **Bokgyeong Kang** and Taeyoung Park. (2019). "Efficient and flexible model-based clustering of jumps in diffusion processes." Journal of the Korean Statistical Society. 48(3)
