@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,6 +14,7 @@ Education
 * B.A. in Business administration and Applied statistics, Yonsei University, 2016
 * M.A. in Applied statistics, Yonsei University, 2018
 * Ph.D in Statisticsy, Pennsylvania State University, 2023 (expected)
+
 
 Work experience
 ======
