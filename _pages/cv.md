@@ -11,21 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Business administration and Applied statistics, Yonsei University, 2016
+* M.A. in Applied statistics, Yonsei University, 2018
+* Ph.D in Statisticsy, Pennsylvania State University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant
+  - Department of Statistics, Pennsylvania State University, Aug 2019 - Present
+    + Under the supervision of Dr. Murali Haran
+  - Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018 
+    + Under the supervision of Dr. Taeyoung Park
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Instructor
+  - Department of Statistics, Pennsylvania State University
+    + MATH/STAT318 - Elementary Probability
+  - Department of Applied Statistics, Yonsei University
+    + STA2104 - Computer Programming
+
+* Teaching Assistant
+  - Department of Statistics, Pennsylvania State University
+    + STAT200 - Elementary Statistics
+    + STAT416 - Stochastic Modeling
+    + STAT515 - Stochastic Processes and Monte Carlo Methods
+  - Department of Applied Statistics, Yonsei University
+    + STA1001 - Introduction to Statistics
+    + STA3126 - Mathematical Statistics I
+    + STA3124 - Stochastic Process
   
 Skills
 ======
