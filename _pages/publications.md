@@ -17,7 +17,7 @@ author_profile: true
 
 Journal Articles
 ====== 
-* **Bokgyeong Kang** and Taeyoung Park. (2019). "[Efficient and flexible model-based clustering of jumps in diffusion processes.](https://www.sciencedirect.com/science/article/abs/pii/S1226319219300377)" Journal of the Korean Statistical Society. 48(3)
+* **Bokgyeong Kang** and Taeyoung Park. (2019). "[Efficient and flexible model-based clustering of jumps in diffusion processes.](https://www.sciencedirect.com/science/article/abs/pii/S1226319219300377)"  <i>Journal of the Korean Statistical Society.</i> 48(3)
 
 
 In Preparation
