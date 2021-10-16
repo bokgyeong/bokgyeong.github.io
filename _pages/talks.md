@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: ""
 permalink: /talks/
 author_profile: true
 ---
@@ -13,6 +13,8 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
+Talks and presentations
+======
 * "A Zero-Inflated Negative Binomial Regression Model for Spatiotemporal Data of US Vaccine Refusal." <i>2021 MIDAS Network Annual Meeting</i>
 * "Diagnostics for Monte Carlo algorithms for models with intractable normalizing functions." <i>2021 World Meeting of the International Society for Bayesian Analysis</i>
 * "Diagnostics for Monte Carlo algorithms for models with intractable normalizing functions." <i>2021 Joint Statistical Meetings</i>
