@@ -36,9 +36,11 @@ Work experience
     + STAT515 - Stochastic Processes and Monte Carlo Methods
   - Department of Applied Statistics, Yonsei University
     + STA1001 - Introduction to Statistics
-    + STA3126 - Mathematical Statistics I
     + STA3124 - Stochastic Process
-  
+    + STA3126 - Mathematical Statistics I
+
+
+<!--
 Skills
 ======
 * Skill 1
@@ -69,3 +71,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
