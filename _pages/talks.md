@@ -13,4 +13,6 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
-* "A Zero-Inflated Negative Binomial Regression Model for Spatiotemporal Data of US Vaccine Refusal." MIDAS Network Annual Meeting. May 2021
+* "A Zero-Inflated Negative Binomial Regression Model for Spatiotemporal Data of US Vaccine Refusal." 2021 MIDAS Network Annual Meeting
+* "Diagnostics for Monte Carlo algorithms for models with intractable normalizing functions." 2021 World Meeting of the International Society for Bayesian Analysis
+* "Diagnostics for Monte Carlo algorithms for models with intractable normalizing functions." 2021 Joint Statistical Meetings
