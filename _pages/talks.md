@@ -13,4 +13,4 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
-* MIDAS
+* "A Zero-Inflated Negative Binomial Regression Model for Spatiotemporal Data of US Vaccine Refusal." MIDAS Network Annual Meeting. May 2021
