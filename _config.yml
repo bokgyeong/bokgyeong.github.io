@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bokgyeong Kang"
 title_separator          : "-"
 name                     : &name "Bokgyeong Kang"
-description              : &description "Ph.D. Student of Statistics at Penn State"
+description              : &description "Ph.D. Student in Statistics at Penn State"
 url                      : https://bokgyeong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bokgyeong.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bokgyeong Kang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student of Statistics at Penn State"
+  bio              : "Ph.D. Student in Statistics at Penn State"
   location         : "University Park, Pennsylvania"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
