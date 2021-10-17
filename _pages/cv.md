@@ -48,7 +48,7 @@ Honors and Awards
 
 Software
 ======
-* The '[lazygreedy](https://cran.r-project.org/web/packages/lazygreedy/lazygreedy.pdf)' package for R (with John Hughes, Lehigh University of Biostatistics)
+* The '[lazygreedy](https://cran.r-project.org/web/packages/lazygreedy/lazygreedy.pdf)' package for R (with John Hughes, Lehigh University, College of Health)
 
 
 Publications
