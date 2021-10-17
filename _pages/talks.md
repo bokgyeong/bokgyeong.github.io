@@ -16,7 +16,7 @@ author_profile: true
 Talks and presentations
 ======
 * Diagnostics for Monte Carlo algorithms for models with intractable normalizing functions
-  - 2021 Joint Statistical Meetings, Aug 8 - 12, 2021
+  - 2021 Joint Statistical Meetings, Aug 08 - 12, 2021
 * Diagnostics for Monte Carlo algorithms for models with intractable normalizing functions
   - 2021 World Meeting of the International Society for Bayesian Analysis, June 28 - July 02, 2021
 * A Zero-Inflated Negative Binomial Regression Model for Spatiotemporal Data of US Vaccine Refusal
