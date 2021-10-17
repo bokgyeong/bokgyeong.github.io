@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Statisticsy, Pennsylvania State University, 2023 (expected)
-  - 
 * M.A. in Applied statistics, Yonsei University, 2018
 * B.A. in Business administration and Applied statistics, Yonsei University, 2016
 
