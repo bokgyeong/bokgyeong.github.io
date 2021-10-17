@@ -18,15 +18,15 @@ Education
 
 Employment
 ======
-* Department of Statistics, Pennsylvania State University 
-  - Research Assistant to Dr. Murali Haran, Aug 2019 - Present
-  - Teaching Assistant, Aug 2019 - Present
+* Department of Statistics, Pennsylvania State University, Aug 2018 - Present
+  - Research Assistant to Dr. Murali Haran
+  - Teaching Assistant
     + STAT200 - Elementary Statistics
     + STAT416 - Stochastic Modeling
     + STAT515 - Stochastic Processes and Monte Carlo Methods
-* Department of Applied Statistics, Yonsei University
-  - Research Assistant to Dr. Taeyoung Park, Sep 2016 - Feb 2018 
-  - Teaching Assistant, Sep 2016 - Feb 2018 
+* Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
+  - Research Assistant to Dr. Taeyoung Park
+  - Teaching Assistant
     + STA1001 - Introduction to Statistics
     + STA3124 - Stochastic Process
     + STA3126 - Mathematical Statistics I
