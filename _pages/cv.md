@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, Pennsylvania State University, 2023 (expected)
+* Ph.D in Statistics, The Pennsylvania State University, 2023 (expected)
 * M.A. in Applied statistics, Yonsei University, 2018
 * B.A. in Business administration and Applied statistics, Yonsei University, 2016
 
 
 Employment
 ======
-* Department of Statistics, Pennsylvania State University, Aug 2018 - Present
+* Department of Statistics, The Pennsylvania State University, Aug 2018 - Present
   - Research Assistant to Dr. Murali Haran
   - Teaching Assistant
     + STAT200 - Elementary Statistics
@@ -34,7 +34,7 @@ Employment
 
 Teaching
 ======
-* Department of Statistics, Pennsylvania State University
+* Department of Statistics, The Pennsylvania State University
   - MATH/STAT318 - Elementary Probability (Fall 2021)
 * Department of Applied Statistics, Yonsei University
   - STA2104 - Computer Programming (Spring 2018)
