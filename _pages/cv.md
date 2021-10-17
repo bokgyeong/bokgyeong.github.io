@@ -39,12 +39,11 @@ Teaching
 * Department of Applied Statistics, Yonsei University
   - STA2104 - Computer Programming (Spring 2018)
 
+
 Honors and Awards
 ======
 * Distinguished Graduate Fellowship, The Pennsylvania State University, 2018 - 2019
-* Graduated with High Honors, Yonsei University, February 2016
-* High Honors, Yonsei University, Spring 2010, Spring 2012, Spring 2014
-* Honors, Yonsei University, Fall 2011
+* Graduated with High Honors (February 2016), High Honors (Spring 2010, Spring 2012, Spring 2014), Honors (Fall 2011), Yonsei University
 
 
 Software
