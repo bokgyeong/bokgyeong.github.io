@@ -42,7 +42,7 @@ Teaching
 
 Software
 ======
-* The '[lazygreedy](https://cran.r-project.org/web/packages/lazygreedy/lazygreedy.pdf)' package for R (with John Hughes, Lehigh University of Biostatistics) (current version: 1.0)
+* The '[lazygreedy](https://cran.r-project.org/web/packages/lazygreedy/lazygreedy.pdf)' package for R (with John Hughes, Lehigh University of Biostatistics)
 
 
 Publications
