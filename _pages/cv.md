@@ -11,35 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.A. in Business administration and Applied statistics, Yonsei University, 2016
-* M.A. in Applied statistics, Yonsei University, 2018
 * Ph.D in Statisticsy, Pennsylvania State University, 2023 (expected)
+  - 
+* M.A. in Applied statistics, Yonsei University, 2018
+* B.A. in Business administration and Applied statistics, Yonsei University, 2016
 
 
-Work experience
+Employment
 ======
-* Research Assistant
-  - Department of Statistics, Pennsylvania State University, Aug 2019 - Present
-    + Under the supervision of Dr. Murali Haran
-  - Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018 
-    + Under the supervision of Dr. Taeyoung Park
-
-* Instructor
-  - Department of Statistics, Pennsylvania State University
-    + MATH/STAT318 - Elementary Probability
-  - Department of Applied Statistics, Yonsei University
-    + STA2104 - Computer Programming
-
-* Teaching Assistant
-  - Department of Statistics, Pennsylvania State University
+* Department of Statistics, Pennsylvania State University 
+  - Research Assistant to Dr. Murali Haran, Aug 2019 - Present
+  - Teaching Assistant, Aug 2019 - Present
     + STAT200 - Elementary Statistics
     + STAT416 - Stochastic Modeling
     + STAT515 - Stochastic Processes and Monte Carlo Methods
-  - Department of Applied Statistics, Yonsei University
+* Department of Applied Statistics, Yonsei University
+  - Research Assistant to Dr. Taeyoung Park, Sep 2016 - Feb 2018 
+  - Teaching Assistant, Sep 2016 - Feb 2018 
     + STA1001 - Introduction to Statistics
     + STA3124 - Stochastic Process
     + STA3126 - Mathematical Statistics I
 
+
+Teaching
+======
+* Department of Statistics, Pennsylvania State University
+  - MATH/STAT318 - Elementary Probability (Fall 2021)
+* Department of Applied Statistics, Yonsei University
+  - STA2104 - Computer Programming (Spring 2018)
+
+
+Software
+======
+* R 
+  - The 'lazygreedy' package for R (with John Hughes, Lehigh University of Biostatistics) (current version: 1.0)
+
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 <!--
 Skills
