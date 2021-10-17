@@ -47,7 +47,7 @@ Software
 
 Publications
 ======
-
+[See here](https://bokgyeong.github.io/publications/)
 
 <!--
 Skills
