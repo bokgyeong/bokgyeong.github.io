@@ -47,7 +47,7 @@ Software
 
 Publications
 ======
-[here](/publications/)
+
 
 <!--
 Skills
