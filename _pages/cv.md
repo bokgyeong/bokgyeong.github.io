@@ -47,7 +47,7 @@ Software
 
 Publications
 ======
-{% include /publications/ %}
+[here](/publications/)
 
 <!--
 Skills
