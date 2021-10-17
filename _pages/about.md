@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Statistics at the Pennsylvania State University. I am currently working with Dr. Murali Haran.
+I am a Ph.D. student in the Department of Statistics at the Pennsylvania State University. I am currently working with Dr. Murali Haran and Dr. John Hughes.
 
 I received my M.A. in Applied statistics from Yonsei University in South Korea in 2018 and worked with Dr. Taeyoung Park. I received my B.A. in Business administration and Applied statistics from the same in 2016.
 
