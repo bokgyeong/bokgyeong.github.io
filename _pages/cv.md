@@ -43,8 +43,7 @@ Teaching
 
 Software
 ======
-* R 
-  - The 'lazygreedy' package for R (with John Hughes, Lehigh University of Biostatistics) (current version: 1.0)
+* The 'lazygreedy' package for R (with John Hughes, Lehigh University of Biostatistics) (current version: 1.0)
 
 
 Publications
