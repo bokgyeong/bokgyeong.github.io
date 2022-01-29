@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+In preparation
+======
+* **Bokgyeong Kang**, John Hughes, Shweta Bansal, Casey Zipfel, and Murali Haran. (2022+). A high-dimensional zero-inflated spatial model for vaccine hesitancy.
 
 Papers under review
 ====== 
