@@ -19,7 +19,7 @@ In preparation
 ======
 * **Bokgyeong Kang**, John Hughes, Shweta Bansal, Casey Zipfel, and Murali Haran. (2022+). A high-dimensional zero-inflated spatial model for vaccine hesitancy.
 
-Papers under review
+Under review
 ====== 
 * **Bokgyeong Kang**, John Hughes, and Murali Haran. (2021+). "[Diagnostics for Monte Carlo algorithms for models with intractable normalizing functions.](https://arxiv.org/pdf/2109.05121v2.pdf)" 
 
