@@ -35,13 +35,14 @@ Employment
 Teaching
 ======
 * Department of Statistics, The Pennsylvania State University
-  - MATH/STAT318 - Elementary Probability (Fall 2021)
+  - MATH/STAT318 - Elementary Probability (Fall 2021, Spring 2022)
 * Department of Applied Statistics, Yonsei University
   - STA2104 - Computer Programming (Spring 2018)
 
 
 Honors and Awards
 ======
+* Award for Support of Pedagogy in Graduate Instruction, The Pennsylvania State University, 2021
 * Distinguished Graduate Fellowship, The Pennsylvania State University, 2018 - 2019
 * Graduated with High Honors (February 2016), High Honors (Spring 2010, Spring 2012, Spring 2014), Honors (Fall 2011), Yonsei University
 
