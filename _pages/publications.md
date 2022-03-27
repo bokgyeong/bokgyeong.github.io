@@ -17,7 +17,8 @@ author_profile: true
 
 In preparation
 ======
-* **Bokgyeong Kang**, John Hughes, Shweta Bansal, Casey Zipfel, and Murali Haran. (2022+). A high-dimensional zero-inflated spatial model for vaccine hesitancy.
+* **Bokgyeong Kang**, Sandra Goldlust, Elizabeth Lee, John Hughes, Shweta Bansal, and Murali Haran. (2022+). A Zero-Inflated Negative Binomial Regression Model for Spatiotemporal Data of US Vaccine Hesitancy.
+* **Bokgyeong Kang**, John Hughes, Shweta Bansal, and Murali Haran. (2022+). An Efficient and Asymptotically Exact Bayesian Inference Method for Zero-Inflated Conway-Maxwell Poisson Regression Models.
 
 Under review
 ====== 
