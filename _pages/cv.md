@@ -20,21 +20,21 @@ Experience
 ======
 * Department of Statistics, The Pennsylvania State University, Aug 2018 - Present
   - Research Assistant to Dr. Murali Haran
+  - Instructor
+    + MATH/STAT318 - Elementary Probability (Fall 2021, Spring 2022)
   - Teaching Assistant
     + STAT200 - Elementary Statistics (Fall 2019, Spring 2020)
     + STAT416 - Stochastic Modeling (Fall 2020)
     + STAT515 - Stochastic Processes and Monte Carlo Methods (Spring 2021)
-  - Instructor
-    + MATH/STAT318 - Elementary Probability (Fall 2021, Spring 2022)
+
 * Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
   - Research Assistant to Dr. Taeyoung Park
+  - Instructor
+    + STA2104 - Computer Programming (Spring 2018)
   - Teaching Assistant
     + STA1001 - Introduction to Statistics
     + STA3124 - Stochastic Process
     + STA3126 - Mathematical Statistics I
-  - Instructor
-    + STA2104 - Computer Programming (Spring 2018)
-
 
 
 Honors and Awards
