@@ -16,32 +16,30 @@ Education
 * B.A. in Business administration and Applied statistics, Yonsei University, 2016
 
 
-Employment
+Experience
 ======
 * Department of Statistics, The Pennsylvania State University, Aug 2018 - Present
   - Research Assistant to Dr. Murali Haran
   - Teaching Assistant
-    + STAT200 - Elementary Statistics
-    + STAT416 - Stochastic Modeling
-    + STAT515 - Stochastic Processes and Monte Carlo Methods
+    + STAT200 - Elementary Statistics (Fall 2019, Spring 2020)
+    + STAT416 - Stochastic Modeling (Fall 2020)
+    + STAT515 - Stochastic Processes and Monte Carlo Methods (Spring 2021)
+  - Instructor
+    + MATH/STAT318 - Elementary Probability (Fall 2021, Spring 2022)
 * Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
   - Research Assistant to Dr. Taeyoung Park
   - Teaching Assistant
     + STA1001 - Introduction to Statistics
     + STA3124 - Stochastic Process
     + STA3126 - Mathematical Statistics I
+  - Instructor
+    + STA2104 - Computer Programming (Spring 2018)
 
-
-Teaching
-======
-* Department of Statistics, The Pennsylvania State University
-  - MATH/STAT318 - Elementary Probability (Fall 2021, Spring 2022)
-* Department of Applied Statistics, Yonsei University
-  - STA2104 - Computer Programming (Spring 2018)
 
 
 Honors and Awards
 ======
+* Poster Award, The junior section of the International Society for Bayesian Analysis (j-ISBA), 2022
 * Award for Support of Pedagogy in Graduate Instruction, The Pennsylvania State University, 2021
 * Distinguished Graduate Fellowship, The Pennsylvania State University, 2018 - 2019
 * Graduated with High Honors (February 2016), High Honors (Spring 2010, Spring 2012, Spring 2014), Honors (Fall 2011), Yonsei University
