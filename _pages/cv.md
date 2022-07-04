@@ -19,7 +19,7 @@ Education
 Experience
 ======
 * Department of Statistics, The Pennsylvania State University, Aug 2018 - Present
-  - Research Assistant to Dr. Murali Haran
+  - Research Assistant to Dr. Murali Haran (Penn State) and Dr. John Hughes (Lehigh)
   - Instructor
     + MATH/STAT318 - Elementary Probability (Fall 2021, Spring 2022)
   - Teaching Assistant
@@ -54,7 +54,7 @@ Volunteer Experience
 
 Software
 ======
-* The "[lazygreedy](https://cran.r-project.org/web/packages/lazygreedy/lazygreedy.pdf)" package for R (with John Hughes, College of Health, Lehigh University)
+* The "[lazygreedy](https://cran.r-project.org/web/packages/lazygreedy/lazygreedy.pdf)" package for R (with John Hughes, Lehigh University)
 
 
 Publications
