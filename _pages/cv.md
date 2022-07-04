@@ -45,6 +45,13 @@ Honors and Awards
 * Graduated with High Honors (February 2016), High Honors (Spring 2010, Spring 2012, Spring 2014), Honors (Fall 2011), Yonsei University
 
 
+Volunteer Experience
+======
+* Reviewer for international journals and conferences
+  - Journal of the American Statistical Association
+  - Journal of Computational and Graphical Statistics
+
+
 Software
 ======
 * The "[lazygreedy](https://cran.r-project.org/web/packages/lazygreedy/lazygreedy.pdf)" package for R (with John Hughes, College of Health, Lehigh University)
