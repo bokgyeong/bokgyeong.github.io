@@ -48,8 +48,8 @@ Honors and Awards
 Volunteer Experience
 ======
 * Reviewer for international journals and conferences
-  - Journal of the American Statistical Association
-  - Journal of Computational and Graphical Statistics
+  - Journal of the American Statistical Association (JASA)
+  - Journal of Computational and Graphical Statistics (JCGS)
 
 
 Software
