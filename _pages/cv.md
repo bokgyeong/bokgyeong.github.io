@@ -19,7 +19,7 @@ Education
 Research Experience
 ======
 * Department of Statistics, The Pennsylvania State University, Aug 2018 - Present
-  - Research Assistant to Dr. Murali Haran (Penn State) and Dr. John Hughes (Lehigh)
+  - Research Assistant to Dr. Murali Haran (Penn State University) and Dr. John Hughes (Lehigh University)
 * Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
   - Research Assistant to Dr. Taeyoung Park
   - Master's Thesis Title: Flexible modeling of clusters in asset prices using the nested Dirichlet process
