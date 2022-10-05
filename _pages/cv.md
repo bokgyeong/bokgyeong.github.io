@@ -12,17 +12,21 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics, The Pennsylvania State University, 2023 (expected)
+  - Advisors: Dr. Murali Haran (Penn State University) and Dr. John Hughes (Lehigh University)
 * M.A. in Applied statistics, Yonsei University, 2018
+  - Advisor: Dr. Taeyoung Park
+  - Master's Thesis Title: Flexible modeling of clusters in asset prices using the nested Dirichlet process
 * B.A. in Business administration and Applied statistics, Yonsei University, 2016
 
 
 Research Experience
 ======
 * Department of Statistics, The Pennsylvania State University, Aug 2018 - Present
-  - Advisors: Dr. Murali Haran (Penn State University) and Dr. John Hughes (Lehigh University)
+  - Developing methods for assessing Monte Carlo algorithms for models with intractable normalizing functions
+  - Developing a Bayesian inferential method that permits efficient samples and asymptotically exact estimates for spatial zero-inflated Conway--Maxwell--Poisson regression models
 * Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
-  - Advisor: Dr. Taeyoung Park
-  - Master's Thesis Title: Flexible modeling of clusters in asset prices using the nested Dirichlet process
+  
+  
 
 
 Teaching Experience
