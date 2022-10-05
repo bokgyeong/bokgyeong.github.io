@@ -18,13 +18,13 @@ Education
   - Master's Thesis Title: Flexible modeling of clusters in asset prices using the nested Dirichlet process
 * B.A. in Business administration and Applied statistics, Yonsei University, 2016
 
-
+<!-- 
 Research Experience
 ======
 * Department of Statistics, The Pennsylvania State University, Aug 2018 - Present
-  - Developing methods for assessing Monte Carlo algorithms for models with intractable normalizing functions
+  - Developing diagnostic methods for assessing Monte Carlo algorithms for models with intractable normalizing functions
   - Developing a Bayesian inferential method that permits efficient sampling and asymptotically exact estimates for spatial zero-inflated Conway--Maxwell--Poisson regression models
-* Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
+* Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018 -->
   
   
 
