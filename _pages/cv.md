@@ -27,23 +27,25 @@ Research Experience
 
 Teaching Experience
 ======
-* Department of Statistics, The Pennsylvania State University, Aug 2018 - Present
+* The Pennsylvania State University
   - Instructor
     + MATH/STAT318 - Elementary Probability, Spring 2022
     + MATH/STAT318 - Elementary Probability, Fall 2021
   - Teaching Assistant
+    + STAT515 - Stochastic Processes and Monte Carlo Methods, Spring 2021
+    + STAT416 - Stochastic Modeling, Fall 2020
     + STAT200 - Elementary Statistics,  Spring 2020
     + STAT200 - Elementary Statistics, Fall 2019
-    + STAT416 - Stochastic Modeling, Fall 2020
-    + STAT515 - Stochastic Processes and Monte Carlo Methods, Spring 2021
-
-* Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
+* Yonsei University
   - Instructor
     + STA2104 - Computer Programming, Spring 2018
   - Teaching Assistant
-    + STA1001 - Introduction to Statistics
-    + STA3124 - Stochastic Process
-    + STA3126 - Mathematical Statistics I
+    + STA3126 - Mathematical Statistics I, Fall 2017
+    + STA1001 - Introduction to Statistics, Fall 2017
+    + STA3124 - Stochastic Process, Spring 2017
+    + STA1001 - Introduction to Statistics, Spring 2017
+    + STA3126 - Mathematical Statistics I, Fall 2016
+    + STA1001 - Introduction to Statistics, Fall 2016
 
 
 Honors and Awards
