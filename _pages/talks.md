@@ -29,4 +29,4 @@ Poster Presentations
 * A Zero-Inflated Conway--Maxwell--Poisson Regression Model with Spatially-Varying Dispersion for Spatiotemporal Data of US Vaccine Refusal
   - 2022 ENVR Workshop, Oct 6 - 8, 2022
 * A Zero-Inflated Conway--Maxwell--Poisson Regression Model with Spatially-Varying Dispersion for Spatiotemporal Data of US Vaccine Refusal
-  - 2022 World Meeting of the International Society for Bayesian Analysis, June 26 - July 01, 2022 (Won a Poster Award)
+  - 2022 World Meeting of the International Society for Bayesian Analysis, June 26 - July 01, 2022
