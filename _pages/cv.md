@@ -22,22 +22,24 @@ Research Experience
   - Research Assistant to Dr. Murali Haran (Penn State) and Dr. John Hughes (Lehigh)
 * Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
   - Research Assistant to Dr. Taeyoung Park
-  - Master's Thesis Title: Efficient and flexible model-based clustering of jumps in diffusion processes
+  - Master's Thesis Title: Flexible modeling of clusters in asset prices using the nested Dirichlet process
 
 
 Teaching Experience
 ======
 * Department of Statistics, The Pennsylvania State University, Aug 2018 - Present
   - Instructor
-    + MATH/STAT318 - Elementary Probability (Fall 2021, Spring 2022)
+    + MATH/STAT318 - Elementary Probability, Spring 2022
+    + MATH/STAT318 - Elementary Probability, Fall 2021
   - Teaching Assistant
-    + STAT200 - Elementary Statistics (Fall 2019, Spring 2020)
-    + STAT416 - Stochastic Modeling (Fall 2020)
-    + STAT515 - Stochastic Processes and Monte Carlo Methods (Spring 2021)
+    + STAT200 - Elementary Statistics,  Spring 2020
+    + STAT200 - Elementary Statistics, Fall 2019
+    + STAT416 - Stochastic Modeling, Fall 2020
+    + STAT515 - Stochastic Processes and Monte Carlo Methods, Spring 2021
 
 * Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
   - Instructor
-    + STA2104 - Computer Programming (Spring 2018)
+    + STA2104 - Computer Programming, Spring 2018
   - Teaching Assistant
     + STA1001 - Introduction to Statistics
     + STA3124 - Stochastic Process
