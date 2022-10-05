@@ -16,10 +16,18 @@ Education
 * B.A. in Business administration and Applied statistics, Yonsei University, 2016
 
 
-Experience
+Research Experience
 ======
 * Department of Statistics, The Pennsylvania State University, Aug 2018 - Present
   - Research Assistant to Dr. Murali Haran (Penn State) and Dr. John Hughes (Lehigh)
+* Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
+  - Research Assistant to Dr. Taeyoung Park
+  - Master's Thesis Title: Efficient and flexible model-based clustering of jumps in diffusion processes
+
+
+Teaching Experience
+======
+* Department of Statistics, The Pennsylvania State University, Aug 2018 - Present
   - Instructor
     + MATH/STAT318 - Elementary Probability (Fall 2021, Spring 2022)
   - Teaching Assistant
@@ -28,7 +36,6 @@ Experience
     + STAT515 - Stochastic Processes and Monte Carlo Methods (Spring 2021)
 
 * Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
-  - Research Assistant to Dr. Taeyoung Park
   - Instructor
     + STA2104 - Computer Programming (Spring 2018)
   - Teaching Assistant
