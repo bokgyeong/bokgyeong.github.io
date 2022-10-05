@@ -23,7 +23,7 @@ Research Experience
 ======
 * Department of Statistics, The Pennsylvania State University, Aug 2018 - Present
   - Developing methods for assessing Monte Carlo algorithms for models with intractable normalizing functions
-  - Developing a Bayesian inferential method that permits efficient samples and asymptotically exact estimates for spatial zero-inflated Conway--Maxwell--Poisson regression models
+  - Developing a Bayesian inferential method that permits efficient sampling and asymptotically exact estimates for spatial zero-inflated Conway--Maxwell--Poisson regression models
 * Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018
   
   
