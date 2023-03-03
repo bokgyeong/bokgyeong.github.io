@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in Statistics, The Pennsylvania State University, 2023 (expected)
@@ -17,15 +18,6 @@ Education
   - Advisor: Dr. Taeyoung Park
   - Master's Thesis Title: Flexible modeling of clusters in asset prices using the nested Dirichlet process
 * B.A. in Business administration and Applied statistics, Yonsei University, 2016
-
-<!-- 
-Research Experience
-======
-* Department of Statistics, The Pennsylvania State University, Aug 2018 - Present
-  - Developing diagnostic methods for assessing Monte Carlo algorithms for models with intractable normalizing functions
-  - Developing a Bayesian inferential method that permits efficient sampling and asymptotically exact estimates for spatial zero-inflated Conway--Maxwell--Poisson regression models
-* Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018 -->
-  
 
 Honors and Awards
 ======
@@ -43,23 +35,18 @@ Teaching Experience
 ======
 * The Pennsylvania State University
   - Instructor
-    + MATH/STAT318 - Elementary Probability, Spring 2022
-    + MATH/STAT318 - Elementary Probability, Fall 2021
+    + MATH/STAT318 - Elementary Probability, Spring 2022, Fall 2021
   - Teaching Assistant
     + STAT515 - Stochastic Processes and Monte Carlo Methods, Spring 2021
     + STAT416 - Stochastic Modeling, Fall 2020
-    + STAT200 - Elementary Statistics,  Spring 2020
-    + STAT200 - Elementary Statistics, Fall 2019
+    + STAT200 - Elementary Statistics,  Spring 2020, Fall 2019
 * Yonsei University
   - Instructor
     + STA2104 - Computer Programming, Spring 2018
   - Teaching Assistant
-    + STA3126 - Mathematical Statistics I, Fall 2017
-    + STA1001 - Introduction to Statistics, Fall 2017
+    + STA3126 - Mathematical Statistics I, Fall 2017, Fall 2016
+    + STA1001 - Introduction to Statistics, Fall 2017, Spring 2017, Fall 2016
     + STA3124 - Stochastic Process, Spring 2017
-    + STA1001 - Introduction to Statistics, Spring 2017
-    + STA3126 - Mathematical Statistics I, Fall 2016
-    + STA1001 - Introduction to Statistics, Fall 2016
 
 
 
