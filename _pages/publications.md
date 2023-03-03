@@ -22,7 +22,7 @@ Manuscript in Preparation
 
 Submitted Articles
 ====== 
-* **Bokgyeong Kang**, John Hughes, and Murali Haran. (2022+). "Diagnostics for Monte Carlo algorithms for models with intractable normalizing functions." [[Link]](https://arxiv.org/pdf/2109.05121.pdf)
+* **Bokgyeong Kang**, John Hughes, and Murali Haran. (2022+). "Diagnostics for Monte Carlo algorithms for models with intractable normalizing functions." <i>Under review.</i> [[Link]](https://arxiv.org/pdf/2109.05121.pdf)
 * **Bokgyeong Kang**, Sandra Goldlust, Elizabeth Lee, John Hughes, Shweta Bansal, and Murali Haran. (2022+). "Spatial distribution and determinants of childhood vaccination refusal in the United States." <i>Revision submitted.</i> [[Link]](https://arxiv.org/pdf/2211.03763.pdf)
 
 Journal Articles
