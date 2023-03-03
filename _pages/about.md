@@ -12,4 +12,6 @@ I am a Ph.D. student in the Department of Statistics at the Pennsylvania State U
 
 I received my M.A. in Applied statistics from Yonsei University in South Korea in 2018 and worked with Dr. Taeyoung Park. I received my B.A. in Business administration and Applied statistics from the same in 2016.
 
-My research is in the areas of statistical computing, Bayesian methods, and spatial models. I am mainly interested in exploring diagnostic methods for assessing asymptotically approximate algorithms for Bayesian inference.
+My research is in the areas of statistical computing, Markov chain Monte Carlo algorithms, models for spatial and spatiotemporal data, and infectious disease modeling.
+
+Please find my cv here. "files/BKangCurriculumVitae.pdf"
