@@ -18,7 +18,7 @@ author_profile: true
 Manuscript in Preparation
 ======
 * **Bokgyeong Kang**, John Hughes, and Murali Haran. (2023+). "A spatio-temporal self-exciting point process for invasive food-and-mouth disease occurrence in Turkey" 
-* **Bokgyeong Kang**, John Hughes, and Murali Haran. (2023+). "[A zero-inflated Conway--Maxwell--Poisson regression model with spatially varying dispersion for spatiotemporal data of US vaccine refusal.](https://arxiv.org/pdf/2301.11472.pdf)" 
+* **Bokgyeong Kang**, John Hughes, and Murali Haran. (2023+). "A zero-inflated Conway--Maxwell--Poisson regression model with spatially varying dispersion for spatiotemporal data of US vaccine refusal."[[Link]](https://arxiv.org/pdf/2301.11472.pdf) 
 
 Submitted Articles
 ====== 
