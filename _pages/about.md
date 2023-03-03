@@ -14,4 +14,4 @@ I received my M.A. in Applied statistics from Yonsei University in South Korea i
 
 My research is in the areas of statistical computing, Markov chain Monte Carlo algorithms, models for spatial and spatiotemporal data, and infectious disease modeling.
 
-Please find my cv [here](files/BKangCurriculumVitae.pdf)
+Please find my cv [here]("files/BKangCurriculumVitae.pdf")
