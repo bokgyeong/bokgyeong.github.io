@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics, The Pennsylvania State University, 2023 (expected)
-  - Advisors: Dr. Murali Haran (Penn State University) and Dr. John Hughes (Lehigh University)
+  - Advisors: Dr. Murali Haran and Dr. John Hughes
 * M.A. in Applied statistics, Yonsei University, 2018
   - Advisor: Dr. Taeyoung Park
   - Master's Thesis Title: Flexible modeling of clusters in asset prices using the nested Dirichlet process
@@ -26,8 +26,18 @@ Research Experience
   - Developing a Bayesian inferential method that permits efficient sampling and asymptotically exact estimates for spatial zero-inflated Conway--Maxwell--Poisson regression models
 * Department of Applied Statistics, Yonsei University, Sep 2016 - Feb 2018 -->
   
-  
 
+Honors and Awards
+======
+* Poster Award, International Society for Bayesian Analysis (ISBA) 2022
+* Award for Support of Pedagogy in Graduate Instruction, The Pennsylvania State University, 2021
+* Distinguished Graduate Fellowship, The Pennsylvania State University, 2018 - 2019
+* Graduated with High Honors (February 2016), High Honors (Spring 2010, Spring 2012, Spring 2014), Honors (Fall 2011), Yonsei University
+
+
+Research Interests
+======
+Statistical computing; Markov chain Monte Carlo algorithms; models for spatial and spatiotemporal data; infectious disease modeling
 
 Teaching Experience
 ======
@@ -51,13 +61,6 @@ Teaching Experience
     + STA3126 - Mathematical Statistics I, Fall 2016
     + STA1001 - Introduction to Statistics, Fall 2016
 
-
-Honors and Awards
-======
-* Poster Award, The junior section of the International Society for Bayesian Analysis (j-ISBA), 2022
-* Award for Support of Pedagogy in Graduate Instruction, The Pennsylvania State University, 2021
-* Distinguished Graduate Fellowship, The Pennsylvania State University, 2018 - 2019
-* Graduated with High Honors (February 2016), High Honors (Spring 2010, Spring 2012, Spring 2014), Honors (Fall 2011), Yonsei University
 
 
 Volunteer Experience
