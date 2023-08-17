@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Statistics at the Pennsylvania State University. I am currently working with Dr. Murali Haran (Penn State) and Dr. John Hughes (Lehigh).
+I am a postdoctoral researcher in Statistical Science at Duke University. I am working with Dr. Alan Gelfand (Statistical Science at Duke), Dr. Robert Shick (Nicholas School of the Environment at Duke), and Dr. Erin Schliep (Statistics at NC State). 
 
-I received my M.A. in Applied statistics from Yonsei University in South Korea in 2018 and worked with Dr. Taeyoung Park. I received my B.A. in Business Administration and Applied Statistics from the same in 2016.
+I received my Ph.D. in Statistics from the Pennsylvania State University in 2023 and worked with Dr. Murali Haran (Penn State) and Dr. John Hughes (Lehigh). I received my M.A. in Applied statistics from Yonsei University in South Korea in 2018 and worked with Dr. Taeyoung Park. I received my B.A. in Business Administration and Applied Statistics from Yonsei University in 2016.
 
-My research is in the areas of statistical computing, Markov chain Monte Carlo algorithms, models for spatial and spatiotemporal data, and infectious disease modeling.
+I have research interests in statistical computing, primarily Markov chain Monte Carlo algorithms, and spatial statistics. My work is motivated by problems in infectious disease research, environmental science, and ecology.
 
 Please find my cv [here](http://bokgyeong.github.io/files/BKangCurriculumVitae.pdf).
