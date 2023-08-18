@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in Statistical Science at Duke University. I am working with Dr. Alan Gelfand (Statistical Science at Duke), Dr. Robert Shick (Nicholas School of the Environment at Duke), and Dr. Erin Schliep (Statistics at NC State). 
+I am a postdoctoral researcher in Statistical Science at Duke University. I am working with Dr. Alan Gelfand (Statistical Science at Duke), Dr. Robert Schick (Nicholas School of the Environment at Duke), and Dr. Erin Schliep (Statistics at NC State). 
 
 I received my Ph.D. in Statistics from the Pennsylvania State University in 2023 and worked with Dr. Murali Haran (Penn State) and Dr. John Hughes (Lehigh). I received my M.A. in Applied statistics from Yonsei University in South Korea in 2018 and worked with Dr. Taeyoung Park. I received my B.A. in Business Administration and Applied Statistics from Yonsei University in 2016.
 
